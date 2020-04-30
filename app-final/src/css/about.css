@@ -1,0 +1,11 @@
+#about{
+    background-color: rgb(0, 0, 0, 0.8);
+    border-radius: 2vh; 
+    border: 1px solid lime;
+    color: white;
+    overflow: auto;
+    width: 95%;
+    height: 92%;
+    text-align: center;
+    padding: 2%;
+}
